@@ -8,8 +8,6 @@ function App() {
     <div>
       <div className="Header">
         <h1>{blogData.name}</h1>
-        You're on your own from here! Follow the deliverables; test things out in
-        the browser as you write your code; and good luck!
       </div>
       <div className="About">
         <aside>
